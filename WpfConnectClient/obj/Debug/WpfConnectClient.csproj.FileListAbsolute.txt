@@ -1,0 +1,16 @@
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\bin\Debug\WpfConnectClient.exe.config
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\bin\Debug\WpfConnectClient.exe
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\bin\Debug\WpfConnectClient.pdb
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient.csprojResolveAssemblyReference.cache
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\MainWindow.g.cs
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\App.g.cs
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.cache
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.lref
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\MainWindow.baml
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient.g.resources
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient.Properties.Resources.resources
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient.csproj.GenerateResource.Cache
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient.exe
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\obj\Debug\WpfConnectClient.pdb
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\bin\Debug\EmigrationObject.dll
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClient\WpfConnectClient\bin\Debug\EmigrationObject.pdb

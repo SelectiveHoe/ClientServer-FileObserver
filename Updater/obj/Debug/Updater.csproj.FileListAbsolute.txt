@@ -1,0 +1,8 @@
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\bin\Debug\Updater.exe.config
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\bin\Debug\Updater.exe
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\bin\Debug\Updater.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\obj\Debug\Updater.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\obj\Debug\Updater.exe
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\obj\Debug\Updater.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\Updater\bin\Debug\EmigrationObject.pdb

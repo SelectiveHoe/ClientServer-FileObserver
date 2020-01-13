@@ -1,0 +1,16 @@
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe.config
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.pdb
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.csprojResolveAssemblyReference.cache
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\MainWindow.g.cs
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\App.g.cs
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest_MarkupCompile.cache
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest_MarkupCompile.lref
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\MainWindow.baml
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.g.resources
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.Properties.Resources.resources
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.csproj.GenerateResource.Cache
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.exe
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.pdb
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\EmigrationObject.dll
+c:\users\selectivehoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\EmigrationObject.pdb

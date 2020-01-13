@@ -1,0 +1,10 @@
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\ClientServerTest\EmigrationObject\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\ClientServerTest\EmigrationObject\bin\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\ClientServerTest\EmigrationObject\obj\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\ClientServerTest\EmigrationObject\obj\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\Documents\visual studio 2015\Projects\ClientServerTest\EmigrationObject\obj\Debug\EmigrationObject.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\EmigrationObject\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\EmigrationObject\bin\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\EmigrationObject\obj\Debug\EmigrationObject.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\EmigrationObject\obj\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\EmigrationObject\obj\Debug\EmigrationObject.pdb

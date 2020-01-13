@@ -1,0 +1,103 @@
+﻿<Controls:MetroWindow  x:Class="WpfConnectClient.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+        xmlns:gif="http://wpfanimatedgif.codeplex.com"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfConnectClient"
+        mc:Ignorable="d"
+        Title="Client: Connect" Height="500" Width="1000" Closed="Window_Closed">
+    <Grid x:Name="MainGrid">
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+        </Grid.RowDefinitions>
+        <Label>
+            <Label.Background>
+                <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                    <GradientStop Color="White" Offset="0.067"/>
+                    <GradientStop Color="#FFECE0FD"/>
+                </LinearGradientBrush>
+            </Label.Background>
+        </Label>
+        <Image x:Name="LoadingAnim" gif:ImageBehavior.AnimatedSource="ezgif.com-resize.gif" Opacity="1" Width="50" Height="50"></Image>
+        <TabControl x:Name="Tabs">
+            <TabItem Header="Connection Info" Background="Transparent">
+                <!--<Grid >-->
+                <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,50">
+                    <Label HorizontalAlignment="Left">Connection IP:</Label>
+                    <TextBox HorizontalAlignment="Left" x:Name="ConnectionIP" Width="200" Margin="5,0,5,0"></TextBox>
+                    <Label HorizontalAlignment="Left">Connection Port:</Label>
+                    <TextBox HorizontalAlignment="Left" x:Name="ConnectionPort" Width="200" Margin="5,0,5,0"></TextBox>
+                    <Button Margin="5" Click="Button_Click" HorizontalAlignment="Center">Connect</Button>
+                </StackPanel>
+                <!--</Grid>-->
+            </TabItem>
+            <TabItem Header="File Manager" Background="Transparent">
+                <Grid x:Name="FTPGrid">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="30"/>
+                        <RowDefinition Height="5"/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <StackPanel Orientation="Horizontal">
+                        <Button Margin="0,5,5,5" Click="Button_Click_1">Refresh FTP</Button>
+                        <Button Margin="0,0,5,5" Click="Button_Click_2" Height="25" VerticalAlignment="Bottom">Back Folder</Button>
+                    </StackPanel>
+                    <Label x:Name="LabelPathFolder" Grid.Row="1"></Label>
+                    <Separator Grid.Row="2"></Separator>
+                    <ListBox x:Name="FolderTreeView" Grid.Row="3" MouseDoubleClick="FolderTreeView_MouseDoubleClick" AllowDrop="True" Drop="FolderTreeView_Drop">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid>
+                                    <ProgressBar Value="{Binding Path=DownloadProgress}" Maximum="100" Minimum="0" Background="Transparent" BorderBrush="Transparent"></ProgressBar>
+                                    <StackPanel Orientation="Horizontal" VerticalAlignment="Center" >
+                                        <Image Width="18" Height="18" Source="{Binding Path=icon}" RenderOptions.BitmapScalingMode="HighQuality"/>
+                                        <TextBlock Margin="5,0,0,0" FontSize="12" Text="{Binding Path=path}" HorizontalAlignment="Center" />
+                                    </StackPanel>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                </Grid>
+            </TabItem>
+            <TabItem Header="Download Manager" Background="Transparent">
+                <Grid>
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition Height="30"/>
+                    </Grid.RowDefinitions>
+                    <ListBox x:Name="DMList">
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="5" Height="20">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition/>
+                                        <ColumnDefinition Width="30"/>
+                                        <ColumnDefinition Width="30"/>
+                                        <ColumnDefinition Width="30"/>
+                                    </Grid.ColumnDefinitions>
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition/>
+                                        <RowDefinition Height="2"/>
+                                    </Grid.RowDefinitions>
+                                    <ProgressBar Grid.Row="1" Value="{Binding Path=ProgressBarProccess}" Maximum="100" Minimum="0" HorizontalAlignment="Stretch" VerticalAlignment="Bottom"></ProgressBar>
+                                    <Image Grid.RowSpan="2" Grid.Column="1" Source="{Binding Path=pauseStopIcon}" MouseUp="Image_MouseUp_1" RenderOptions.BitmapScalingMode="HighQuality"/>
+                                    <Image Grid.RowSpan="2" Grid.Column="2" Source="folder.png" MouseUp="Image_MouseUp_2" RenderOptions.BitmapScalingMode="HighQuality"/>
+                                    <Image Grid.RowSpan="2" Grid.Column="3" Source="TrashBucket.png" MouseUp="Image_MouseUp" RenderOptions.BitmapScalingMode="HighQuality"/>
+                                    <TextBlock Margin="5,0,0,0" FontSize="12" Text="{Binding Path=PathOnServer}"/>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <StackPanel Grid.Row="1" Orientation="Horizontal" VerticalAlignment="Center">
+                        <TextBlock Margin="0,0,5,0">Current save folder:</TextBlock>
+                        <TextBlock x:Name="SaveFolder"></TextBlock>
+                    </StackPanel>
+                    <Button x:Name="BtnChangeSaveFolder" Grid.Row="1" HorizontalAlignment="Right" VerticalAlignment="Center" Click="Button_Click_3">Change folder</Button>
+                </Grid>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Controls:MetroWindow>

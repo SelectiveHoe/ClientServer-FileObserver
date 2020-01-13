@@ -1,0 +1,102 @@
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.exe.config
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.exe
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.pdb
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.exe
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.pdb
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\MainWindow.g.cs
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\App.g.cs
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.cache
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.lref
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\MainWindow.baml
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.g.resources
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.Properties.Resources.resources
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\ControlzEx.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\ControlzEx.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.xml
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\obj\Debug\App.baml
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.xml
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SelectiveHoe\Documents\Visual Studio 2015\Projects\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.exe.config
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.exe
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.pdb
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.exe
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.pdb
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\ControlzEx.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EmigrationObject.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\ControlzEx.pdb
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EmigrationObject.pdb
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\MainWindow.g.cs
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\App.g.cs
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.cache
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.lref
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\App.baml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\MainWindow.baml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.g.resources
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.Properties.Resources.resources
+C:\Users\09150\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.exe.config
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.exe
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.exe
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfConnectClient.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\ControlzEx.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\SQLite.CodeFirst.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfAnimatedGif.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\ControlzEx.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.xml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\MahApps.Metro.xml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\System.Data.SQLite.xml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\bin\Debug\WpfAnimatedGif.xml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WPFClient.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\MainWindow.g.cs
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\App.g.cs
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.cache
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient_MarkupCompile.lref
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\App.baml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\MainWindow.baml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.g.resources
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WpfConnectClient.Properties.Resources.resources
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfConnectClient\obj\Debug\WPFClient.csproj.GenerateResource.Cache

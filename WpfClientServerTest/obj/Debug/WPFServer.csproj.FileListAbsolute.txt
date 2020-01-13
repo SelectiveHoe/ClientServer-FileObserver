@@ -1,0 +1,47 @@
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe.config
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.exe
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WPFServer.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\MainWindow.g.cs
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\App.g.cs
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest_MarkupCompile.cache
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest_MarkupCompile.lref
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\MainWindow.baml
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.g.resources
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.Properties.Resources.resources
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\obj\Debug\WPFServer.csproj.GenerateResource.Cache
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\ControlzEx.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\MahApps.Metro.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\ControlzEx.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\MahApps.Metro.pdb
+C:\Users\SelectiveHoe\documents\visual studio 2015\Projects\WpfClientServerTest\WpfClientServerTest\bin\Debug\MahApps.Metro.xml
+C:\Users\09150\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe.config
+C:\Users\09150\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.exe
+C:\Users\09150\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe.config
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.exe
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.exe
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\WpfClientServerTest.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\ControlzEx.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\EmigrationObject.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\MahApps.Metro.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\ControlzEx.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\EmigrationObject.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\MahApps.Metro.pdb
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\bin\Debug\MahApps.Metro.xml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WPFServer.csprojResolveAssemblyReference.cache
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\MainWindow.g.cs
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\App.g.cs
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest_MarkupCompile.cache
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest_MarkupCompile.lref
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\MainWindow.baml
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.g.resources
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WpfClientServerTest.Properties.Resources.resources
+C:\Users\SelectiveHoe\Desktop\WpfClientServerTest\WpfClientServerTest\obj\Debug\WPFServer.csproj.GenerateResource.Cache
